@@ -10,7 +10,7 @@ const project1 = computed(() => ({
   title: 'Shorter links',
   category: t('projects.categories.web'),
   tags: ['Vue', 'Tailwind', 'Python'],
-  image: '/src/assets/shorter-project.png',
+  image: '/shorter-project.png',
   githubUrl: 'https://github.com/Runniersoaoi/urlshorter.git',
   demoUrl: 'https://shortter.matiasaquino.com/'
 }))
@@ -19,7 +19,7 @@ const project2 = computed(() => ({
   title: 'Recipe app',
   category: t('projects.categories.web'),
   tags: ['React', 'Tailwind'],
-  image: '/src/assets/recipe-project.png',
+  image: '/recipe-project.png',
   githubUrl: 'https://github.com/Runniersoaoi/recipe-app.git',
   demoUrl: 'https://runniersoaoi.github.io/recipe-app/'
 }))
@@ -28,7 +28,7 @@ const project3 = computed(() => ({
   title: 'Yuyariy',
   category: t('projects.categories.platform'),
   tags: ['React', 'Node', 'Python'],
-  image: '/src/assets/yuyariy-project.png',
+  image: '/yuyariy-project.png',
   githubUrl: 'https://github.com/Runniersoaoi/yuyariy.git',
   demoUrl: 'https://yuyariy-frontend.vercel.app/'
 }))
